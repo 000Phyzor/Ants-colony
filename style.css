@@ -1,5 +1,10 @@
+body
+{background-color: #81a945;}
+
+
+
 .banner {
-    
+
     width: 800px;
     height: 400px;
 }
@@ -7,6 +12,5 @@
 h1 {
     color:brown;
     text-align: center;
-
 }
 
